@@ -1,2 +1,2 @@
 # GitHub-scenarij
-Vrednovanje kvalitete GitHub-a
+„Studiram na Veleučilištu u Rijeci“. 
